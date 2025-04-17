@@ -1,4 +1,4 @@
-# Pasta.xyz 🍝
+# Pasta.Xyz - minecraft client 1.16.5
 
 ![Pasta.xyz Logo](https://raw.githubusercontent.com/W3bs1teH0st3d/pasta.xyz/refs/heads/main/logo.png)
 
