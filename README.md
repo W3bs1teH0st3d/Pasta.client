@@ -27,6 +27,10 @@ Pasta.xyz — это надежные обходы, модули для PvP и �
 - :airplane: [Telegram](https://t.me/ewinnery) — новости
 - :movie_camera: [YouTube](https://www.youtube.com/@ZeroTiss) — обзоры
 
+## Авторы клиента
+- 👤 [Ewinnery](https://t.me/ewinnery): Website, Loader
+- 👤 [Nailfortmine4](https://discord.com/users/872770297051361351): Client, Discord
+
 ## Поддержка
 
 Залетай в [Discord](https://discord.gg/9dMNYANZ) для фидбэка и идей! :rocket: Делись с корешами, чтобы сделать нас лучше! :muscle:
